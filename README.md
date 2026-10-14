@@ -33,7 +33,7 @@ Make sure you have a C++20 compatible compiler (like MSVC or MinGW) and CMake in
 1. Clone the repository:
    ```bash
    git clone https://github.com
-   cd TermiEdit
+   cd TextRedactor
    ```
 2. Build the project using CMake:
    ```bash
